@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "183948363405",
+    "firebase_url": "https://chatter-2de5c-default-rtdb.firebaseio.com",
+    "project_id": "chatter-2de5c",
+    "storage_bucket": "chatter-2de5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183948363405:android:0151b3f1cdf7b38b1bc4c4",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183948363405-uq7mrmht2safr8vuv91tekcuiunbtk3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwlPXwS70zMhVykgrVQgwFA20AzPtQyWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183948363405-uq7mrmht2safr8vuv91tekcuiunbtk3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183948363405:android:8698bc89417f85661bc4c4",
+        "android_client_info": {
+          "package_name": "com.swayam.chatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183948363405-uq7mrmht2safr8vuv91tekcuiunbtk3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwlPXwS70zMhVykgrVQgwFA20AzPtQyWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183948363405-uq7mrmht2safr8vuv91tekcuiunbtk3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
